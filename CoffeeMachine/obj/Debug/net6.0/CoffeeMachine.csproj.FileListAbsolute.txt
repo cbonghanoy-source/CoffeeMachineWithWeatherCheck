@@ -1,0 +1,70 @@
+/Users/chenie/Projects/CoffeeMachine/CoffeeMachine/bin/Debug/net6.0/appsettings.Development.json
+/Users/chenie/Projects/CoffeeMachine/CoffeeMachine/bin/Debug/net6.0/appsettings.json
+/Users/chenie/Projects/CoffeeMachine/CoffeeMachine/bin/Debug/net6.0/CoffeeMachine
+/Users/chenie/Projects/CoffeeMachine/CoffeeMachine/bin/Debug/net6.0/CoffeeMachine.deps.json
+/Users/chenie/Projects/CoffeeMachine/CoffeeMachine/bin/Debug/net6.0/CoffeeMachine.runtimeconfig.json
+/Users/chenie/Projects/CoffeeMachine/CoffeeMachine/bin/Debug/net6.0/CoffeeMachine.dll
+/Users/chenie/Projects/CoffeeMachine/CoffeeMachine/bin/Debug/net6.0/CoffeeMachine.pdb
+/Users/chenie/Projects/CoffeeMachine/CoffeeMachine/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/chenie/Projects/CoffeeMachine/CoffeeMachine/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/chenie/Projects/CoffeeMachine/CoffeeMachine/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/chenie/Projects/CoffeeMachine/CoffeeMachine/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/chenie/Projects/CoffeeMachine/CoffeeMachine/obj/Debug/net6.0/CoffeeMachine.csproj.AssemblyReference.cache
+/Users/chenie/Projects/CoffeeMachine/CoffeeMachine/obj/Debug/net6.0/CoffeeMachine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chenie/Projects/CoffeeMachine/CoffeeMachine/obj/Debug/net6.0/CoffeeMachine.AssemblyInfoInputs.cache
+/Users/chenie/Projects/CoffeeMachine/CoffeeMachine/obj/Debug/net6.0/CoffeeMachine.AssemblyInfo.cs
+/Users/chenie/Projects/CoffeeMachine/CoffeeMachine/obj/Debug/net6.0/CoffeeMachine.csproj.CoreCompileInputs.cache
+/Users/chenie/Projects/CoffeeMachine/CoffeeMachine/obj/Debug/net6.0/CoffeeMachine.MvcApplicationPartsAssemblyInfo.cs
+/Users/chenie/Projects/CoffeeMachine/CoffeeMachine/obj/Debug/net6.0/CoffeeMachine.MvcApplicationPartsAssemblyInfo.cache
+/Users/chenie/Projects/CoffeeMachine/CoffeeMachine/obj/Debug/net6.0/staticwebassets.build.json
+/Users/chenie/Projects/CoffeeMachine/CoffeeMachine/obj/Debug/net6.0/staticwebassets.development.json
+/Users/chenie/Projects/CoffeeMachine/CoffeeMachine/obj/Debug/net6.0/scopedcss/bundle/CoffeeMachine.styles.css
+/Users/chenie/Projects/CoffeeMachine/CoffeeMachine/obj/Debug/net6.0/CoffeeMachine.dll
+/Users/chenie/Projects/CoffeeMachine/CoffeeMachine/obj/Debug/net6.0/refint/CoffeeMachine.dll
+/Users/chenie/Projects/CoffeeMachine/CoffeeMachine/obj/Debug/net6.0/CoffeeMachine.pdb
+/Users/chenie/Projects/CoffeeMachine/CoffeeMachine/obj/Debug/net6.0/CoffeeMachine.genruntimeconfig.cache
+/Users/chenie/Projects/CoffeeMachine/CoffeeMachine/obj/Debug/net6.0/ref/CoffeeMachine.dll
+/Users/chenie/Projects/CoffeeMachine/CoffeeMachine/bin/Debug/net6.0/CoffeeMachine.staticwebassets.endpoints.json
+/Users/chenie/Projects/CoffeeMachine/CoffeeMachine/obj/Debug/net6.0/rpswa.dswa.cache.json
+/Users/chenie/Projects/CoffeeMachine/CoffeeMachine/obj/Debug/net6.0/rjimswa.dswa.cache.json
+/Users/chenie/Projects/CoffeeMachine/CoffeeMachine/obj/Debug/net6.0/rjsmrazor.dswa.cache.json
+/Users/chenie/Projects/CoffeeMachine/CoffeeMachine/obj/Debug/net6.0/rjsmcshtml.dswa.cache.json
+/Users/chenie/Projects/CoffeeMachine/CoffeeMachine/obj/Debug/net6.0/staticwebassets.build.json.cache
+/Users/chenie/Projects/CoffeeMachine/CoffeeMachine/obj/Debug/net6.0/staticwebassets.build.endpoints.json
+/Users/chenie/Projects/CoffeeMachine/CoffeeMachine/obj/Debug/net6.0/swae.build.ex.cache
+/Users/chenie/Projects/CoffeeMachine/CoffeeMachine/obj/Debug/net6.0/CoffeeMa.630064FC.Up2Date
+/Users/chenie/Projects/CoffeeMachine - with weather check/CoffeeMachine/bin/Debug/net6.0/appsettings.Development.json
+/Users/chenie/Projects/CoffeeMachine - with weather check/CoffeeMachine/bin/Debug/net6.0/appsettings.json
+/Users/chenie/Projects/CoffeeMachine - with weather check/CoffeeMachine/bin/Debug/net6.0/CoffeeMachine.staticwebassets.endpoints.json
+/Users/chenie/Projects/CoffeeMachine - with weather check/CoffeeMachine/bin/Debug/net6.0/CoffeeMachine
+/Users/chenie/Projects/CoffeeMachine - with weather check/CoffeeMachine/bin/Debug/net6.0/CoffeeMachine.deps.json
+/Users/chenie/Projects/CoffeeMachine - with weather check/CoffeeMachine/bin/Debug/net6.0/CoffeeMachine.runtimeconfig.json
+/Users/chenie/Projects/CoffeeMachine - with weather check/CoffeeMachine/bin/Debug/net6.0/CoffeeMachine.dll
+/Users/chenie/Projects/CoffeeMachine - with weather check/CoffeeMachine/bin/Debug/net6.0/CoffeeMachine.pdb
+/Users/chenie/Projects/CoffeeMachine - with weather check/CoffeeMachine/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/chenie/Projects/CoffeeMachine - with weather check/CoffeeMachine/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/chenie/Projects/CoffeeMachine - with weather check/CoffeeMachine/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/chenie/Projects/CoffeeMachine - with weather check/CoffeeMachine/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/chenie/Projects/CoffeeMachine - with weather check/CoffeeMachine/obj/Debug/net6.0/CoffeeMachine.csproj.AssemblyReference.cache
+/Users/chenie/Projects/CoffeeMachine - with weather check/CoffeeMachine/obj/Debug/net6.0/rpswa.dswa.cache.json
+/Users/chenie/Projects/CoffeeMachine - with weather check/CoffeeMachine/obj/Debug/net6.0/CoffeeMachine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chenie/Projects/CoffeeMachine - with weather check/CoffeeMachine/obj/Debug/net6.0/CoffeeMachine.AssemblyInfoInputs.cache
+/Users/chenie/Projects/CoffeeMachine - with weather check/CoffeeMachine/obj/Debug/net6.0/CoffeeMachine.AssemblyInfo.cs
+/Users/chenie/Projects/CoffeeMachine - with weather check/CoffeeMachine/obj/Debug/net6.0/CoffeeMachine.csproj.CoreCompileInputs.cache
+/Users/chenie/Projects/CoffeeMachine - with weather check/CoffeeMachine/obj/Debug/net6.0/CoffeeMachine.MvcApplicationPartsAssemblyInfo.cs
+/Users/chenie/Projects/CoffeeMachine - with weather check/CoffeeMachine/obj/Debug/net6.0/CoffeeMachine.MvcApplicationPartsAssemblyInfo.cache
+/Users/chenie/Projects/CoffeeMachine - with weather check/CoffeeMachine/obj/Debug/net6.0/rjimswa.dswa.cache.json
+/Users/chenie/Projects/CoffeeMachine - with weather check/CoffeeMachine/obj/Debug/net6.0/rjsmrazor.dswa.cache.json
+/Users/chenie/Projects/CoffeeMachine - with weather check/CoffeeMachine/obj/Debug/net6.0/rjsmcshtml.dswa.cache.json
+/Users/chenie/Projects/CoffeeMachine - with weather check/CoffeeMachine/obj/Debug/net6.0/scopedcss/bundle/CoffeeMachine.styles.css
+/Users/chenie/Projects/CoffeeMachine - with weather check/CoffeeMachine/obj/Debug/net6.0/staticwebassets.build.json
+/Users/chenie/Projects/CoffeeMachine - with weather check/CoffeeMachine/obj/Debug/net6.0/staticwebassets.build.json.cache
+/Users/chenie/Projects/CoffeeMachine - with weather check/CoffeeMachine/obj/Debug/net6.0/staticwebassets.development.json
+/Users/chenie/Projects/CoffeeMachine - with weather check/CoffeeMachine/obj/Debug/net6.0/staticwebassets.build.endpoints.json
+/Users/chenie/Projects/CoffeeMachine - with weather check/CoffeeMachine/obj/Debug/net6.0/swae.build.ex.cache
+/Users/chenie/Projects/CoffeeMachine - with weather check/CoffeeMachine/obj/Debug/net6.0/CoffeeMa.630064FC.Up2Date
+/Users/chenie/Projects/CoffeeMachine - with weather check/CoffeeMachine/obj/Debug/net6.0/CoffeeMachine.dll
+/Users/chenie/Projects/CoffeeMachine - with weather check/CoffeeMachine/obj/Debug/net6.0/refint/CoffeeMachine.dll
+/Users/chenie/Projects/CoffeeMachine - with weather check/CoffeeMachine/obj/Debug/net6.0/CoffeeMachine.pdb
+/Users/chenie/Projects/CoffeeMachine - with weather check/CoffeeMachine/obj/Debug/net6.0/CoffeeMachine.genruntimeconfig.cache
+/Users/chenie/Projects/CoffeeMachine - with weather check/CoffeeMachine/obj/Debug/net6.0/ref/CoffeeMachine.dll
